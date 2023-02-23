@@ -20,7 +20,7 @@ I also did this as a final project for [CS50x](https://cs50.harvard.edu/x/2023/)
 1. Click on "Upload passwords"
 2. Put in the competition name and sorted scramble passwords. It ignores all the lines that don't have exactly one ":", so if you for some reason don't care about the "sorted" part, feel free to paste there the whole original file that TNoodle generates, it should be able to handle it.
 3. Click on "Submit".
-4. When at the competition, click on "Display current passwords", find the right scramble set and show the screen to your scrambles. As only that one password is visible.
+4. When at the competition, click on "Display current passwords", find the right scramble set and show the screen to your scramblers. As only that one password is visible, it's okay to do that.
 5. Be happy, because you don't have to repeat the same sequence of random characters 7 times!
 
 ## Technologies
