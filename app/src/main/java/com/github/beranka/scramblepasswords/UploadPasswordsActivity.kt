@@ -1,4 +1,4 @@
-package com.example.scramblepasswords
+package com.github.beranka.scramblepasswords
 
 import android.content.Context
 import android.content.Intent
@@ -6,7 +6,7 @@ import android.content.SharedPreferences
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.scramblepasswords.databinding.ActivityUploadPasswordsBinding
+import com.github.beranka.scramblepasswords.databinding.ActivityUploadPasswordsBinding
 
 class UploadPasswordsActivity : AppCompatActivity() {
 
@@ -20,7 +20,7 @@ class UploadPasswordsActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?){
         super.onCreate(savedInstanceState)
 
-        binding= ActivityUploadPasswordsBinding.inflate(layoutInflater)
+        binding = ActivityUploadPasswordsBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
         sharedPref=getSharedPreferences("pref1", Context.MODE_PRIVATE)

@@ -1,4 +1,4 @@
-package com.example.scramblepasswords
+package com.github.beranka.scramblepasswords
 
 data class Password (
     val password: String,

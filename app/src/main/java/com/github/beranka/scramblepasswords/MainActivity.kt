@@ -1,4 +1,4 @@
-package com.example.scramblepasswords
+package com.github.beranka.scramblepasswords
 
 import android.content.Context
 import android.content.Intent
@@ -8,7 +8,7 @@ import android.widget.Toast
 import androidx.activity.result.ActivityResultLauncher
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
-import com.example.scramblepasswords.databinding.ActivityMainBinding
+import com.github.beranka.scramblepasswords.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

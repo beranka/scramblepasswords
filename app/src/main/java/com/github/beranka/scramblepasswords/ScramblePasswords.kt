@@ -1,4 +1,4 @@
-package com.example.scramblepasswords
+package com.github.beranka.scramblepasswords
 
 import android.app.Application
 import android.os.Build

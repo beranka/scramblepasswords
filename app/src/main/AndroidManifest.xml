@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.scramblepasswords">
+    package="com.github.scramblepasswords">
 
     <application
-        android:name="com.example.scramblepasswords.ScramblePasswords"
+        android:name="com.github.beranka.scramblepasswords.ScramblePasswords"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -15,14 +15,14 @@
         tools:targetApi="31"
         android:enableOnBackInvokedCallback="true" >
         <activity
-            android:name="com.example.scramblepasswords.DisplayActivity"
+            android:name="com.github.beranka.scramblepasswords.DisplayActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.DEFAULT" />
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.scramblepasswords.MainActivity"
+            android:name="com.github.beranka.scramblepasswords.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -31,7 +31,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.scramblepasswords.UploadPasswordsActivity"
+            android:name="com.github.beranka.scramblepasswords.UploadPasswordsActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.DEFAULT" />

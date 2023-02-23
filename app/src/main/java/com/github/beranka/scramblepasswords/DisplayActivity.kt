@@ -1,13 +1,12 @@
-package com.example.scramblepasswords
+package com.github.beranka.scramblepasswords
 
-import android.content.Context
 import android.content.Intent
 import android.content.SharedPreferences
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import androidx.activity.OnBackPressedCallback
-import com.example.scramblepasswords.databinding.ActivityDisplayBinding
+import com.github.beranka.scramblepasswords.databinding.ActivityDisplayBinding
 
 class DisplayActivity : AppCompatActivity() {
 
