@@ -14,7 +14,7 @@ When using display devices, one option is keeping them on a separate USB drive a
 
 However, at least for me this is for some reason impossible and nobody ever understands me the first time I say it. And that is seriously frustrating and if I were to delegate a few more competition like this, I would be very, very unhappy. So that is why I made this.
 
-I also did this as a final project for CS50x, because I literally finished all the problem sets in 2 weeks and then I proceeded to procrastinate for a month 🙃.
+I also did this as a final project for [CS50x](https://cs50.harvard.edu/x/2023/), because I literally finished all the problem sets in 2 weeks and then I proceeded to procrastinate for a month 🙃.
 
 ## Usage
 1. Click on "Upload passwords"
