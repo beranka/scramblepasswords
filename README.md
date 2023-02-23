@@ -29,4 +29,4 @@ I built this in Kotlin in Android Studio, it uses View Binding, SharedPreference
 ## Resources that helped me build this and what I take from it
 For learning Android and Kotlin, I found really great [the YouTube channel of Philipp Lackner](https://www.youtube.com/@PhilippLackner), everything is really clear in his tutorials, I can highly recommend learning from there. I also referred to [the official website about Material 3](https://m3.material.io/), especially for dynamic colors. Otherwise I of course googled a lot of stuff and read questions on Stack Overflow, that were similar to my problems.
 
-I actually really enjoyed doing this project, apart from the Android Studio casually making the whole computer crash (and I wasn't even using an emulator), Kotlin is very nice to code in ❤️.
+I actually really enjoyed doing this project, apart from the Android Studio casually making my computer crash (and I wasn't even using an emulator), Kotlin is very nice to code in ❤️.
