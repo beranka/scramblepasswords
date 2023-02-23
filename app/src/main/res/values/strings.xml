@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Scramble Passwords</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="uploadPasswordsHeading">Upload Passwords</string>
+    <string name="uploadPasswordsHint">Scramble passwords</string>
+    <string name="uploadPasswordsCompetitionNameHint">Competition Name</string>
+    <string name="submit">Submit</string>
+    <string name="uploadBtnFromMain">Upload passwords</string>
+    <string name="displayBtnFromMain">Display current passwords</string>
+</resources>
