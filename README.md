@@ -10,7 +10,7 @@ If you're not a speedcuber and don't know anything about the WCA, WCA Competitio
 ## The problem
 WCA Delegates have generally 2 options how to handle scrambles. That is either printing them or displaying them on a tablet or computer screen.
 
-When using display devices, one option is keeping them on a separate USB drive and only putting there the currently used set, but that's problematic with tablets. In Poland (and now also Czechia), the Delegate would usually upload password protected PDFs to the device beforehand all at once and then when is time to use each set, they would tell the scrambles the respective password.
+When using display devices, one option is keeping them on a separate USB drive and only putting there the currently used set, but that's problematic with tablets. In Poland (and now also Czechia), the Delegate would usually upload password protected PDFs to the device beforehand all at once and then when is time to use each set, they would tell the scramblers the respective password.
 
 However, at least for me this is for some reason impossible and nobody ever understands me the first time I say it. And that is seriously frustrating and if I were to delegate a few more competition like this, I would be very, very unhappy. So that is why I made this.
 
