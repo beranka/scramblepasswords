@@ -1,5 +1,5 @@
 # Scramble Passwords
-TODO: video and video link
+![image](https://img.shields.io/badge/Kotlin-6c0974?&style=for-the-badge&logo=kotlin&logoColor=white) ![image](https://img.shields.io/badge/Android-a4ca39?style=for-the-badge&logo=android&logoColor=white) ![image](https://img.shields.io/badge/Contains-17%20liters%20of%20tea-red?style=for-the-badge&color=9f0d52&labelColor=4a0626)
 
 An Android application for displaying passwords for scramble PDFs at official WCA Competitions.
 
@@ -25,8 +25,3 @@ I also did this as a final project for [CS50x](https://cs50.harvard.edu/x/2023/)
 
 ## Technologies
 I built this in Kotlin in Android Studio, it uses View Binding, SharedPreferences, Material 3 and supports dynamic colors (from Android 12). I made it's launcher icon in Inkscape.
-
-## Resources that helped me build this and what I take from it
-For learning Android and Kotlin, I found really great [the YouTube channel of Philipp Lackner](https://www.youtube.com/@PhilippLackner), everything is really clear in his tutorials, I can highly recommend learning from there. I also referred to [the official website about Material 3](https://m3.material.io/), especially for dynamic colors. Otherwise I of course googled a lot of stuff and read questions on Stack Overflow, that were similar to my problems.
-
-I actually really enjoyed doing this project, apart from the Android Studio casually making my computer crash (and I wasn't even using an emulator), Kotlin is very nice to code in ❤️.
